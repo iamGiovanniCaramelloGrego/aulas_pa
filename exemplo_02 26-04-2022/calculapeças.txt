@@ -1,0 +1,13 @@
+CalculaPeças
+   
+  entre com um valor para valor
+  entre com um valor para qtde
+  Calcule o valor total das peças (quantidade * valor da peça)
+  Mostre o valor total das peças
+FimAlgoritmo
+
+teste de mesa 
+
+valor    qtde    vt
+6         5      30
+2         20     40 
