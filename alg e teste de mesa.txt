@@ -1,0 +1,11 @@
+algoritmo calculaHoras
+
+	entre com o valor de horas
+	entre com o valor de minutos
+	faça minutos=(minutox/60)
+        faça horas=(horas+minutox)
+fimalgoritmo
+
+teste de mesa
+3h40 = 3.67
+1h32=1.52 
