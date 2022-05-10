@@ -1,0 +1,12 @@
+algoritmo calculacarro
+
+	entre com o valor da fabricaçao do carro
+	entre com o valor dos impostos 
+	entre com o valor da distribuiçao
+	faca resultado (valor+valorimp+dist)
+	mostre resultado
+
+teste de mesa
+valor     impostos  distribuiçao  resultado
+25.000.00     45%        28%         46.400.00
+97.000.00     75%        42%         241.045
