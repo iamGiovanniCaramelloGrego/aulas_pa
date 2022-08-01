@@ -1,0 +1,26 @@
+Algoritmo "saque"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 01/08/2022
+Var
+// Seção de Declarações das variáveis 
+,saque,saldo_at,saldo_fim,sobra:real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+saldo_at <- 5000
+escreval ("seu saldo é de:", saldo_at)
+escreval("informe o valor do saque:")
+leia(saque)
+saldo_fim <-saldo_at - saque
+se (saldo_fim>=0) entao
+   escreval("seu saldo é positivo", saldo_fim)
+senao
+     escreval("seu saldo é negativo", saldo_fim)
+fimse
+          
+
+
+Fimalgoritmo
